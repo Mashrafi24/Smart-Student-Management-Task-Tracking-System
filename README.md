@@ -49,7 +49,8 @@ Instead of maintaining academic activities across notebooks, messaging applicati
                        PROGRESS
 
 
-##🎯 2. Problem Statement
+
+    ## 2. Problem Statement
 Students often have to manage multiple courses, assignments, projects, laboratory tasks, and deadlines simultaneously.
 Academic information may be stored in different places such as:
 - Notebook
@@ -66,7 +67,7 @@ This can make it difficult to:
 The proposed system solves this problem by providing a centralized academic task and assignment tracking platform.
 
 
-##🎯 3. Project Objectives
+## 3. Project Objectives
 The main objectives of the project are:
 - Create a centralized academic task-management system.
 - Allow students to manage their courses.
@@ -81,7 +82,7 @@ The main objectives of the project are:
 - Provide a simple and user-friendly interface.
 
 
-##👥 4. Target Users
+## 4. Target Users
 The system can support three main types of users.
 👨‍🎓 Student
 Students can:
@@ -113,7 +114,7 @@ Administrators can:
 - Manage system information.
 
 
-##⚙️ 5. Core Features
+## 5. Core Features
 🔐 Authentication
 - User login
 - Logout
@@ -149,7 +150,7 @@ Students can see:
 - Overall completion percentage
 
 
-##🔄 6. System Workflow
+##6. System Workflow
 The general workflow of the system is:
 Start
   │
@@ -173,7 +174,7 @@ Dashboard
                          ▼
                         End
 
-##🧩 7. Proposed Classes
+##7. Proposed Classes
 The initial Java implementation will use at least five classes from the class design.
 Core Classes
 User
@@ -197,7 +198,7 @@ Progress	Student task completion progress
 Notification	Deadline/reminder information
 
 
-##🖥️ 8. User Interface
+##8. User Interface
 The initial prototype will use a simple and clean interface.
 Main Screens
 Login
@@ -220,7 +221,7 @@ TaskPanel
 AssignmentPanel
 ProgressPanel
 
-##🎨 9. Dashboard Concept
+##9. Dashboard Concept
 The dashboard will provide a quick overview of the student's academic activities.
 ┌───────────────────────────────────────────────┐
 │        SMART STUDENT                         │
@@ -240,7 +241,7 @@ The dashboard will provide a quick overview of the student's academic activities
 
 
 
-##🏗️ 10. Software Development Process
+##10. Software Development Process
 The project will follow the Agile Scrum Software Process Model.
 Development Process
 Product Backlog
@@ -260,7 +261,9 @@ Improvement
 Next Sprint
 
 Agile allows the project to be developed incrementally and makes it easier to improve the system based on feedback.
-📅 11. Project Schedule
+
+
+##11. Project Schedule
 Week	Activity
 Week 1	Requirement Analysis
 Week 2	Project Proposal
@@ -274,7 +277,7 @@ Week 9	Bug Fixing & Improvements
 Week 10	Documentation & Final Submission
 
 
-##🏁 12. Project Milestones
+## 12. Project Milestones
 Milestone	Description
 M1	Requirements Completed
 M2	Project Proposal Completed
@@ -287,7 +290,7 @@ M8	Documentation Completed
 M9	Final Submission
 
 
-##📊 13. Gantt Chart
+##13. Gantt Chart
 Task                    W1 W2 W3 W4 W5 W6 W7 W8 W9 W10
 --------------------------------------------------------
 Requirements            ■  ■
@@ -299,7 +302,7 @@ Development                           ■  ■
 Testing                                    ■  ■
 Documentation                                  ■  ■
 
-##📐 14. UML & System Diagrams
+## 14. UML & System Diagrams
 The project documentation will include the following diagrams:
 1. Data Flow Diagram (DFD)
 Shows how data moves between users, system processes, and stored information.
@@ -427,7 +430,7 @@ title = UML Diagram
 priority = HIGH
 status = PENDING
 
-🗄️ 15. Database Concept
+##15. Database Concept
 The proposed database may contain:
 Users
 Students
@@ -457,7 +460,7 @@ Course
 
 
 
-##☕ 16. Technology Stack
+## 16. Technology Stack
 Programming Language
 Java
 
@@ -481,7 +484,7 @@ Future Version → MySQL / PostgreSQL
 
 
 
-##🧪 17. Testing Plan
+## 17. Testing Plan
 The system will be tested using different functional test cases.
 Test Case	Expected Result
 Valid Login	Dashboard opens
@@ -496,7 +499,7 @@ View Progress	Correct progress is displayed
 
 
 
-##📦 18. Project Deliverables
+## 18. Project Deliverables
 The final project will contain:
 - Project Proposal
 - Requirement Specification
@@ -518,7 +521,7 @@ The final project will contain:
 
 
 
-##📁 19. GitHub Repository Structure
+## 19. GitHub Repository Structure
 Smart-Student-Task-Tracking-System/
 │
 ├── README.md
@@ -563,7 +566,7 @@ Smart-Student-Task-Tracking-System/
 
 
 
-##🚀 20. Future Improvements
+##20. Future Improvements
 The initial version will focus on the core requirements.
 Future versions may include:
 - Email notifications
@@ -576,7 +579,9 @@ Future versions may include:
 - File attachment for assignments
 - Advanced analytics
 - AI-based study recommendations
-🎓 21. Expected Outcome
+
+
+##21. Expected Outcome
 At the end of the project, the system will provide students with a simple platform for managing their academic activities.
 The initial prototype will demonstrate:
 Login

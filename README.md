@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍🎓 Student Information
+👨‍🎓 ##Student Information
 
 | Information | Details |
 |---|---|
@@ -18,7 +18,7 @@
 
 ---
 
-# 📌 1. Project Overview
+📌 ##1. Project Overview
 
 **Smart Student Task & Assignment Tracking System** is an academic productivity and task-management application designed for students.
 
